@@ -4,8 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
   - Bridge
   - Hand
+=======
+  - Spider
+>>>>>>> e33585e (orumcek olduuryoz)
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - FloorLayer
   - 
   - 
   - 
